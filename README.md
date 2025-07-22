@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @RealHaywoodJ
-- 👀 I’m interested in ...Buiilding Computers, tinkering w/ Hardware & Software, Cryptocurrency, and Dark Web projects. I also tend to like open sources!
-- 🌱 I’m currently learning ... Registry Coding and Values
-- 💞️ I’m looking to collaborate on ...Anything that I can learn from and have a mentor.
-- 📫 How to reach me ... You can reach me here on my Github or through my Discord.
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... I take an interest to hidden stuff/projects on the INRTRAWEB "sortof" like Bitcoin before it was actaully a thing.
+## 👋 Hey, SirSHAmun5on12 speaking here...
 
-<!---
-RealHaywoodJ/RealHaywoodJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Builder, breaker, and brander of things on the edge of **AI, Web3, and infosec**.  
+Currently shipping:
+
+- **BrandRaven** – domain + handle intelligence for founders (live)  
+- **RavenScan API** – FastAPI + Redis brand search backend (deployed)  
+- **Electrician Blueprint Estimator** – AI-assisted takeoff/estimating tool (beta)
+
+### What I do
+- 🧠 Prompt + product design for AI agents  
+- 🛠️ Full-stack tinkering (TS/React, FastAPI, Supabase, Railway/Vercel)  
+- 🔐 Crypto & security experiments (hashes, PQC toys, stego fun)  
+- ⚡ Hardware & homelab builds (ex-IBEW electrician turned maker)
+
+### Looking for
+- Collabs on practical AI tooling, dev infra, and open-source utilities  
+- Security-minded builders who enjoy weird edge cases and ship fast
+
+### Reach me
+- Discord: **SirSHAmun5on12**  
+- X / Farcaster / ENS: **sirshamun5on12** 
+
+> Fun fact: My handle hides **SHA-512** inside my surname. If you know, you know.
+
+---
