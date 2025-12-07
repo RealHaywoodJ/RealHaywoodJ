@@ -3,7 +3,7 @@
 > SirSHAmun5on12 (SHA-512 SecOps Nod) | Full-Stack Dev & AI/Blockchain Innovator | Building MeshX for Decentralized Compute | Inventor at Heart
 
 [![GitHub followers](https://img.shields.io/github/followers/RealHaywoodJ?style=social)](https://github.com/RealHaywoodJ)
-[![Twitter](https://img.shields.io/badge/Twitter-@RealHaywoodJ-1DA1F2?style=flat&logo=twitter)](https://twitter.com/RealHaywoodJ)
+[![Twitter](https://img.shields.io/badge/Twitter-@SirSHAmun5on12-1DA1F2?style=flat&logo=twitter)](https://twitter.com/SirSHAmun5on12)
 
 ## 🚀 Active & Incubating Initiatives
 
@@ -142,7 +142,7 @@ These early ideas fuel my drive in crypto and distributed systems—always ideat
 | Platform | Link |
 | --- | --- |
 | 🌐 Website | [haywoodj.com](https://haywoodj.com) - Portfolio, inventions, and crypto insights |
-| 🐦 Twitter | [@RealHaywoodJ](https://twitter.com/RealHaywoodJ) |
+| 🐦 Twitter | [@SirSHAmun5on12](https://twitter.com/SirSHAmun5on12) |
 | 📧 Email | [Contact Form](https://haywoodj.com/contact) |
 | 💼 LinkedIn | [Connect](https://linkedin.com/in/realhaywoodj) |
 
